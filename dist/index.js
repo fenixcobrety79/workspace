@@ -23,4 +23,4 @@ console.log(variable1);
 const objeto = { id: 1, nombre: " casa" };
 console.log(objeto);
 //# sourceMappingURL=index.js.map
-lucas
+nueva rama
